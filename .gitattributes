@@ -125,3 +125,4 @@ web.config text
 *.md text
 LICENSE text
 AUTHORS text
+gitattributes filter=lfs diff=lfs merge=lfs -text
